@@ -1,11 +1,6 @@
+### 👋 Hi, I'm wxyww!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-.
-
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
-
-:heart: Programming | :blue_heart: LOL | :yellow_heart: ACMer
+ ![](https://codeforces-readme-stats.vercel.app/api/badge?username=wxyww)|:heart: Programming | :blue_heart: LOL | :yellow_heart: ACMer 
 
 I am a Final Year Software Engineering Student at  Shandong University. I am also a prospective graduate student for the of Tsinghua Shenzhen International Graduate School.
 
@@ -22,9 +17,14 @@ I am a Final Year Software Engineering Student at  Shandong University. I am als
 
 -------
 
-📊 **Weekly development breakdown**
+#### 📊 **How about some languages**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wxyww2049&hide=html,css,scss&layout=compact)
 
-![github-user-contribution](contribution.svg)
 
+
+---
+
+### 🤠 How about my contributions
+
+![github-user-contribution](https://raw.githubusercontent.com/wxyww2049/wxyww2049/refs/heads/output/github-contribution-grid-snake.svg)
