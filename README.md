@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm wxyww!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
- ![](https://codeforces-readme-stats.vercel.app/api/badge?username=wxyww)|:heart: Programming | :blue_heart: LOL | :yellow_heart: ACMer 
+ ![](https://codeforces-readme-stats.vercel.app/api/badge?username=wxyww)
+
+:heart: Programming | :blue_heart: LOL | :yellow_heart: ACMer 
 
 I am a Final Year Software Engineering Student at  Shandong University. I am also a prospective graduate student for the of Tsinghua Shenzhen International Graduate School.
 
