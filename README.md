@@ -26,4 +26,5 @@ I am a Final Year Software Engineering Student at  Shandong University. I am als
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wxyww2049&hide=html,css,scss&layout=compact)
 
-![github-user-contribution](C:\Users\wxyww\OneDrive\Desktop\github-user-contribution.svg)
+![github-user-contribution](contribution.svg)
+
