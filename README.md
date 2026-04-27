@@ -9,12 +9,6 @@ I am a Final Year Software Engineering Student at  Shandong University. I am als
 - 🔭 I’m currently working on HPC.
 - 🌱 I like algorithm and I won the gold medal in the ACM-ICPC regional competition.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxyww2049&hide=["stars"]&show_icons=true)
-
 -------
 
 ### 📊 **How about some languages**
