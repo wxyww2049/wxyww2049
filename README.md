@@ -4,8 +4,6 @@
 
 :heart: Programming | :blue_heart: LOL | :yellow_heart: ACMer 
 
-I am a Final Year Software Engineering Student at  Shandong University. I am also a prospective graduate student for the of Tsinghua Shenzhen International Graduate School.
-
 - 🔭 I’m currently working on HPC.
 - 🌱 I like algorithm and I won the gold medal in the ACM-ICPC regional competition.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
